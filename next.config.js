@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   swcMinify: true,
-  images:{
+  images: {
     domains:["res.cloudinary.com"]
-  }
-  typescript:{
+  },
+  typescript: {
   ignoreBuildErrors: true,
   }
 }
