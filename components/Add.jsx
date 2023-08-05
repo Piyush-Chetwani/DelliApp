@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "../styles/Add.module.css";
+import styles from "../styles/add.module.css";
 import axios from "axios";
 import { useRouter } from "next/router";
 
